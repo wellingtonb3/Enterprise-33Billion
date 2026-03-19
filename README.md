@@ -1,4 +1,4 @@
-# 🚀 Project Connection R$ 33.6 Bilion:  Modernization Strategy
+# 🚀 Project Connection R$ 33.6 Billion:  Modernization Strategy
 > **Mission-Critical Architectural Evolution** > **Target Revenue:** R$ 33.6 Billion | **Baseline:** R$ 32 Billion
 
 ---
