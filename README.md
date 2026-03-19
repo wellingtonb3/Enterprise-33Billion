@@ -43,3 +43,18 @@ graph TD
     DB2 -- Real-time Sync --> GG --> OCI
     OCI --> DS
     BTP --> UX
+```
+### 📸 Project Images 
+
+![Imagem 1](images/Pic1.png)
+![Imagem 2](images/Pic2.png)
+![Imagem 3](images/Pic3.png)
+![Imagem 4](images/Pic4.png)
+![Imagem 5](images/Pic5.png)
+![Imagem 6](images/Pic6.png)
+![Imagem 7](images/Pic7.png)
+![Imagem 8](images/Pic8.png)
+![Imagem 9](images/Pic9.png)
+![Imagem 10](images/Pic10.png)
+![Imagem 11](images/Pic11.png)
+![Imagem 12](images/Pic12.png)
